@@ -1,0 +1,31 @@
+.appHeader {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.nav {
+  margin-bottom: 20px !important;
+
+  & a {
+    padding: 3px 5px;
+    color: #000000;
+    text-decoration: none;
+    border: 1px solid #000000;
+    border-radius: 3px;
+
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+
+    &.active {
+      color: #220eb2;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  }
+}
+
+.logout {
+  margin-right: 30px;
+}
