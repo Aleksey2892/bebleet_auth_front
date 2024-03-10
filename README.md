@@ -1,3 +1,9 @@
+## This is frontend source for my example project of auth with technologies: React, Node, Express, SQLite.
+
+### Link to the backend part of this project:
+https://github.com/Aleksey2892/beebleet_auth_back
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
